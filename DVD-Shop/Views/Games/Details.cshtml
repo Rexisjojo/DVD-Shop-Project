@@ -1,0 +1,48 @@
+﻿@model DVD_Shop.Models.Game
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 class="text-white">Details</h1>
+
+<div>
+    
+    <hr />
+    <dl class="row text-white">
+        <dt class="col-sm-2">
+            @*@Html.DisplayNameFor(model => model.gTitle)*@Game
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.gTitle)
+        </dd>
+        <dt class="col-sm-2">
+            @*@Html.DisplayNameFor(model => model.ReleaseDate)*@Date
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ReleaseDate)
+        </dd>
+        <dt class="col-sm-2">
+            @*@Html.DisplayNameFor(model => model.gDespriction)*@Description
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.gDespriction)
+        </dd>
+        <dt class="col-sm-2">
+            @*@Html.DisplayNameFor(model => model.CoverImage)*@Image
+        </dt>
+        <dd class="col-sm-10">
+            <img src="@Html.DisplayFor(model => model.CoverImage)" width="100px" height="100px">
+        </dd>
+        <dt class="col-sm-2">
+            @*@Html.DisplayNameFor(model => model.TrailerPath)*@Trailer
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TrailerPath)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.gameId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

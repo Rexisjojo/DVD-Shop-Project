@@ -1,0 +1,34 @@
+﻿@model IEnumerable<DVD_Shop.Models.Artist>
+<table class="table">
+    <thead>
+        <tr>
+            <th class="text-white">
+                @*@Html.DisplayNameFor(model => model.aName)*@Artist
+            </th>
+            <th class="text-white">
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            @*<th class="text-white">
+                @Html.DisplayNameFor(model => model.Album)
+            </th>*@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td class="text-white">
+                    @Html.DisplayFor(modelItem => item.aName)
+                </td>
+                <td class="text-white">
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+@*                <td class="text-white">
+                    @Html.DisplayFor(modelItem => item.Album.Title)
+                </td>*@
+                
+            </tr>
+        }
+    </tbody>
+</table>

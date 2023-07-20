@@ -1,0 +1,57 @@
+﻿@model DVD_Shop.Models.Album
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1 class="text-white">Create</h1>
+<br />
+<h4 class="text-white">Album</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-white"></div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label text-white"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-white"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ReleaseDate" class="control-label text-white"></label>
+                <input asp-for="ReleaseDate" class="form-control" />
+                <span asp-validation-for="ReleaseDate" class="text-white"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label text-white"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-white"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="APrice" class="control-label text-white"></label>
+                <input asp-for="APrice" class="form-control" />
+                <span asp-validation-for="APrice" class="text-white"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ImageURL" class="control-label text-white"></label>
+                <input type="file" name="img" class="form-control" />
+                <span asp-validation-for="ImageURL" class="text-white"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CategoryId" class="control-label text-white">Category</label>
+                <select asp-for="CategoryId" class ="form-control" asp-items="ViewBag.CategoryId"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

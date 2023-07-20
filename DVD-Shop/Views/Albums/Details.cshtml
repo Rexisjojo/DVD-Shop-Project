@@ -1,0 +1,56 @@
+﻿@model DVD_Shop.Models.Album
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 class="text-white">Details</h1>
+
+<div>
+    <h4 class="text-white">Album</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2 text-white">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class="col-sm-10 text-white">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class="col-sm-2 text-white">
+            @Html.DisplayNameFor(model => model.ReleaseDate)
+        </dt>
+        <dd class="col-sm-10 text-white">
+            @Html.DisplayFor(model => model.ReleaseDate)
+        </dd>
+        <dt class="col-sm-2 text-white">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class="col-sm-10 text-white">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class="col-sm-2 text-white">
+            @Html.DisplayNameFor(model => model.APrice)
+        </dt>
+        <dd class="col-sm-10 text-white">
+            @Html.DisplayFor(model => model.APrice)
+        </dd>
+        <dt class="col-sm-2 text-white">
+            @*@Html.DisplayNameFor(model => model.ImageURL)*@Image
+        </dt>
+        <dd class="col-sm-10 text-white">
+            <img src="@Html.DisplayFor(model => model.ImageURL)" width="150px" height="150px"></img>
+            <br />
+            @Html.DisplayFor(model => model.ImageURL)
+        </dd>
+        <dt class="col-sm-2 text-white">
+            @Html.DisplayNameFor(model => model.Category)
+        </dt>
+        <dd class="col-sm-10 text-white">
+            @Html.DisplayFor(model => model.Category.CName)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.AlbumId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

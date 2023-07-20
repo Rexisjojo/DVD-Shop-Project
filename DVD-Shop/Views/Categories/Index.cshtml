@@ -1,0 +1,57 @@
+﻿@model IEnumerable<DVD_Shop.Models.Category>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<br>
+<div class=" text-white text-center font-italic">
+
+    <h2>Categories</h2>
+</div>
+
+
+<br>
+<h5>
+    <a asp-action="Create">Create New</a>
+</h5>
+<br>
+<table class="table">
+    <thead>
+        <tr>
+            <th class="bg-secondary text-white">
+                @Html.DisplayNameFor(model => model.CName)
+            </th>
+            <th class="bg-secondary text-white">
+                @Html.DisplayNameFor(model => model.Slug)
+            </th>
+            <th class="bg-secondary text-white text-center">
+                @Html.DisplayNameFor(model => model.Cstatus)
+            </th>
+            <th class=" text-white">
+
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td class="text-white">
+                    @Html.DisplayFor(modelItem => item.CName)
+                </td>
+                <td class="text-white">
+                    @Html.DisplayFor(modelItem => item.Slug)
+                </td>
+                <td class="text-white text-center">
+                    @Html.DisplayFor(modelItem => item.Cstatus)
+                </td>
+                <td class="text-danger text-center">
+                    <a asp-action="Edit" asp-route-id="@item.CategoryId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.CategoryId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.CategoryId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

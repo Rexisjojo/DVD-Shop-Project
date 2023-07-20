@@ -1,0 +1,84 @@
+﻿@model IEnumerable<DVD_Shop.Models.NewsContent>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-center text-white">Stay Updated!</h1>
+
+@if (User.IsInRole("User") || User.IsInRole("Admin"))
+{
+    <h3 class="text-center">
+        <i class="fas fa-plus text-white">+</i>
+        <a asp-action="Create">Add News</a>
+    </h3>
+}else
+{
+    <h3 class="text-center text-white bg-danger">Please Login / Register to add News</h3>
+}
+@*<table>
+    <thead class="table text-white">
+        <tr>
+            <th >
+                @Html.DisplayNameFor(model => model.NewsTitle)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.News)
+            </th>
+         
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td class="bg-light text-black">
+                @Html.DisplayFor(modelItem => item.NewsTitle)
+            </td>
+            <td class="bg-secondary text-justify text-white">
+                @Html.DisplayFor(modelItem => item.News)
+            </td>
+                @if (User.IsInRole("Admin"))
+                {
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.NewsContentId">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.NewsContentId">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.NewsContentId">Delete</a>
+                    </td>
+                }
+        </tr>
+        }
+    </tbody>
+</table>*@
+
+@*<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <h6 class="card-subtitle mb-2 text-body-secondary">Card subtitle</h6>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" class="card-link">Card link</a>
+        <a href="#" class="card-link">Another link</a>
+    </div>
+</div>class="g-col-6 g-col-md-4"
+*@
+<div class="container justify-content-center">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+        <div class="card g-col-6 g-col-md-4" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title h3 text-center bg-secondary text-white"> @Html.DisplayFor(modelItem => item.NewsTitle)</h5>
+    
+            <p class="card-text">@Html.DisplayFor(modelItem => item.News)</p>
+
+            @if (User.IsInRole("Admin"))
+            {
+                        <a asp-action="Edit" asp-route-id="@item.NewsContentId" class="card-link text-dark">Edit</a>
+                        <a asp-action="Details" asp-route-id="@item.NewsContentId" class="card-link text-dark ">Details</a>
+                        <a asp-action="Delete" asp-route-id="@item.NewsContentId" class="card-link text-dark ">Delete</a>
+            }
+            
+    </div>
+    </div>
+    }
+    </div>
+</div>   

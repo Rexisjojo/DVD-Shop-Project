@@ -1,0 +1,66 @@
+﻿@model IEnumerable<DVD_Shop.Models.Album>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-white"> Albums</h1>
+<br />
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<br />
+<table class="table">
+    <thead>
+        <tr>
+            <th class="text-white">
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th class="text-white">
+                @Html.DisplayNameFor(model => model.ReleaseDate)
+            </th>
+            <th class="text-white">
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th class="text-white">
+                @Html.DisplayNameFor(model => model.APrice)
+            </th>
+            <th class="text-white">
+                @Html.DisplayNameFor(model => model.ImageURL)
+            </th>
+            <th class="text-white">
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td class="text-white ">
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+                <td class="text-white">
+                @Html.DisplayFor(modelItem => item.ReleaseDate)
+            </td>
+                <td class="text-white">
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+                <td class="text-white ">
+                @Html.DisplayFor(modelItem => item.APrice)
+            </td>
+                <td class="text-white">
+                    <img src="@Html.DisplayFor(modelItem => item.ImageURL)" width="60px" height="50px">
+            </td>
+                <td class="text-white">
+                @Html.DisplayFor(modelItem => item.Category.CName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.AlbumId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.AlbumId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.AlbumId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

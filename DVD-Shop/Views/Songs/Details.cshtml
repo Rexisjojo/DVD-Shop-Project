@@ -1,0 +1,48 @@
+﻿@model DVD_Shop.Models.Song
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 class="text-white">Details</h1>
+
+<div>
+    
+    <hr />
+    <dl class="row text-white">
+        <dt class = "col-sm-2">
+            @*@Html.DisplayNameFor(model => model.sTitle)*@Song Title
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.sTitle)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.songPath)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.songPath)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Artist)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Artist.aName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Album)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Album.Title)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Genres)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Genres.gName)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.songId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,47 @@
+﻿@model IEnumerable<DVD_Shop.Models.Artist>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-white">Artists</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th class="text-white">
+                @*@Html.DisplayNameFor(model => model.aName)*@Artist
+            </th>
+            <th class="text-white">
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th class="text-white">
+                @Html.DisplayNameFor(model => model.Album)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td class="text-white">
+                @Html.DisplayFor(modelItem => item.aName)
+            </td>
+                <td class="text-white">
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+                <td class="text-white">
+                @Html.DisplayFor(modelItem => item.Album.Title)
+            </td>
+                <td class="text-danger">
+                <a asp-action="Edit" asp-route-id="@item.ArtistId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ArtistId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ArtistId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

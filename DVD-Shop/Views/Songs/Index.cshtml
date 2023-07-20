@@ -1,0 +1,65 @@
+﻿@model IEnumerable<DVD_Shop.Models.Song>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-white">Index</h1>
+
+<p class="text-white">
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table text-white">
+    <thead>
+        <tr>
+            <th>
+                @*@Html.DisplayNameFor(model => model.sTitle)*@Song
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.songPath)*@Song Path
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Slug)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Artist)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Album)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genres)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.sTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.songPath)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Slug)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Artist.aName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Album.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genres.gName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.songId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.songId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.songId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,61 @@
+﻿@model IEnumerable<DVD_Shop.Models.Game>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-white">Game</h1>
+
+<p class="text-white">
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table text-white">
+    <thead>
+        <tr>
+            <th>
+                @*@Html.DisplayNameFor(model => model.gTitle)*@Game Title
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReleaseDate)
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.gDespriction)*@ Despriction
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.CoverImage)*@Image
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.TrailerPath)*@Trailer
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.gTitle)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ReleaseDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.gDespriction)
+                </td>
+                <td>
+                    @*@Html.DisplayFor(modelItem => item.CoverImage)*@<img src="@Html.DisplayFor(modelItem => item.CoverImage)" width="100px" height="100px">
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TrailerPath)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.gameId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.gameId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.gameId">Delete</a>
+                </td>
+            </tr>
+        }
+}
+    </tbody>
+</table>

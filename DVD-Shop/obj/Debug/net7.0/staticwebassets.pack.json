@@ -1,0 +1,1073 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DVD-Shop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DVD-Shop.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\DawnFM.jpg",
+      "PackagePath": "staticwebassets\\DawnFM.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\After-hours.jpg",
+      "PackagePath": "staticwebassets\\Images\\After-hours.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\DawnFM.jpg",
+      "PackagePath": "staticwebassets\\Images\\DawnFM.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\Gta_V.jpg",
+      "PackagePath": "staticwebassets\\Images\\Gta_V.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\Minecraft.jpg",
+      "PackagePath": "staticwebassets\\Images\\Minecraft.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\Teddy.jpg",
+      "PackagePath": "staticwebassets\\Images\\Teddy.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\anime\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\Images\\anime\\details-pic.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\anime\\review-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\anime\\review-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\anime\\review-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\anime\\review-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\anime\\review-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\anime\\review-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\anime\\review-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\anime\\review-4.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\anime\\review-5.jpg",
+      "PackagePath": "staticwebassets\\Images\\anime\\review-5.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\anime\\review-6.jpg",
+      "PackagePath": "staticwebassets\\Images\\anime\\review-6.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\Images\\blog-7.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\Images\\blog\\blog-10.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog\\blog-11.jpg",
+      "PackagePath": "staticwebassets\\Images\\blog\\blog-11.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog\\blog-12.jpg",
+      "PackagePath": "staticwebassets\\Images\\blog\\blog-12.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\Images\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\Images\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\Images\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\Images\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\Images\\blog\\blog-9.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog\\details\\bd-item-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\blog\\details\\bd-item-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog\\details\\bd-item-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\blog\\details\\bd-item-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog\\details\\bd-item-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\blog\\details\\bd-item-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog\\details\\blog-details-pic.jpg",
+      "PackagePath": "staticwebassets\\Images\\blog\\details\\blog-details-pic.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog\\details\\comment-1.png",
+      "PackagePath": "staticwebassets\\Images\\blog\\details\\comment-1.png"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog\\details\\comment-2.png",
+      "PackagePath": "staticwebassets\\Images\\blog\\details\\comment-2.png"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\blog\\details\\comment-3.png",
+      "PackagePath": "staticwebassets\\Images\\blog\\details\\comment-3.png"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\Images\\details-pic.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\games\\Minecraft.jpg",
+      "PackagePath": "staticwebassets\\Images\\games\\Minecraft.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\games\\battlefront.jpg!d",
+      "PackagePath": "staticwebassets\\Images\\games\\battlefront.jpg!d"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\hero\\hero-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\hero\\hero-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\live-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\live-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\live\\live-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\live\\live-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\live\\live-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\live\\live-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\live\\live-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\live\\live-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\live\\live-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\live\\live-4.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\live\\live-5.jpg",
+      "PackagePath": "staticwebassets\\Images\\live\\live-5.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\live\\live-6.jpg",
+      "PackagePath": "staticwebassets\\Images\\live\\live-6.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\logo.png",
+      "PackagePath": "staticwebassets\\Images\\logo.png"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\normal-breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\Images\\normal-breadcrumb.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\popular-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\popular-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\popular\\popular-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\popular\\popular-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\popular\\popular-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\popular\\popular-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\popular\\popular-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\popular\\popular-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\popular\\popular-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\popular\\popular-4.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\popular\\popular-5.jpg",
+      "PackagePath": "staticwebassets\\Images\\popular\\popular-5.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\popular\\popular-6.jpg",
+      "PackagePath": "staticwebassets\\Images\\popular\\popular-6.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\recent\\recent-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\recent\\recent-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\recent\\recent-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\recent\\recent-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\recent\\recent-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\recent\\recent-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\recent\\recent-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\recent\\recent-4.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\recent\\recent-5.jpg",
+      "PackagePath": "staticwebassets\\Images\\recent\\recent-5.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\recent\\recent-6.jpg",
+      "PackagePath": "staticwebassets\\Images\\recent\\recent-6.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\sidebar\\comment-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\sidebar\\comment-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\sidebar\\comment-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\sidebar\\comment-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\sidebar\\comment-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\sidebar\\comment-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\sidebar\\comment-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\sidebar\\comment-4.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\sidebar\\tv-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\sidebar\\tv-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\sidebar\\tv-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\sidebar\\tv-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\sidebar\\tv-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\sidebar\\tv-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\sidebar\\tv-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\sidebar\\tv-4.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\sidebar\\tv-5.jpg",
+      "PackagePath": "staticwebassets\\Images\\sidebar\\tv-5.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\trend-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\trend-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\trend-5.jpg",
+      "PackagePath": "staticwebassets\\Images\\trend-5.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\trending\\trend-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\trending\\trend-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\trending\\trend-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\trending\\trend-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\trending\\trend-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\trending\\trend-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\trending\\trend-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\trending\\trend-4.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\trending\\trend-5.jpg",
+      "PackagePath": "staticwebassets\\Images\\trending\\trend-5.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Images\\trending\\trend-6.jpg",
+      "PackagePath": "staticwebassets\\Images\\trending\\trend-6.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Songs\\die-for-you.mp3",
+      "PackagePath": "staticwebassets\\Songs\\die-for-you.mp3"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Songs\\song-1.mp3",
+      "PackagePath": "staticwebassets\\Songs\\song-1.mp3"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Songs\\song-2.mp3",
+      "PackagePath": "staticwebassets\\Songs\\song-2.mp3"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Source\\OwlCarousel2-2.3.4.zip",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4.zip"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Source\\SlickNav-master.zip",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master.zip"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Source\\bootstrap-4.4.1-dist.zip",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.4.1-dist.zip"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Source\\elegant_font.zip",
+      "PackagePath": "staticwebassets\\Source\\elegant_font.zip"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Source\\font-awesome-4.7.0.zip",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0.zip"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Source\\jquery-nice-select-1.1.0.zip",
+      "PackagePath": "staticwebassets\\Source\\jquery-nice-select-1.1.0.zip"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Source\\plyr-master.zip",
+      "PackagePath": "staticwebassets\\Source\\plyr-master.zip"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Source\\sass.zip",
+      "PackagePath": "staticwebassets\\Source\\sass.zip"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Uploads\\49ed7c65-a53d-4567-acfb-262a0f70323a.png",
+      "PackagePath": "staticwebassets\\Uploads\\49ed7c65-a53d-4567-acfb-262a0f70323a.png"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Uploads\\e2921f06-4546-4a53-a3d2-8ed94e51840c.png",
+      "PackagePath": "staticwebassets\\Uploads\\e2921f06-4546-4a53-a3d2-8ed94e51840c.png"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Uploads\\ed82f6e3-6e1e-4200-82fd-6731e38d5238.png",
+      "PackagePath": "staticwebassets\\Uploads\\ed82f6e3-6e1e-4200-82fd-6731e38d5238.png"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Videos\\1.mp4",
+      "PackagePath": "staticwebassets\\Videos\\1.mp4"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Videos\\anime-watch.jpg",
+      "PackagePath": "staticwebassets\\Videos\\anime-watch.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Videos\\hd0386_preview.mp4",
+      "PackagePath": "staticwebassets\\Videos\\hd0386_preview.mp4"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\Videos\\trailer-1.mp4",
+      "PackagePath": "staticwebassets\\Videos\\trailer-1.mp4"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\albums\\After-hours.jpg",
+      "PackagePath": "staticwebassets\\albums\\After-hours.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\css\\plyr.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\anime\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\details-pic.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\anime\\review-1.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\anime\\review-2.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\anime\\review-3.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\anime\\review-4.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-4.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\anime\\review-5.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-5.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\anime\\review-6.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-6.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\blog\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-10.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\blog\\blog-11.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-11.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\blog\\blog-12.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-12.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\blog\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-9.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\blog\\details\\bd-item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\bd-item-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\blog\\details\\bd-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\bd-item-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\blog\\details\\bd-item-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\bd-item-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\blog\\details\\blog-details-pic.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\blog-details-pic.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\blog\\details\\comment-1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-1.png"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\blog\\details\\comment-2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-2.png"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\blog\\details\\comment-3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-3.png"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\hero\\hero-1.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\hero-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\live\\live-1.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\live\\live-2.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\live\\live-3.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\live\\live-4.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-4.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\live\\live-5.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-5.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\live\\live-6.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-6.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\normal-breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\img\\normal-breadcrumb.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\popular\\popular-1.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\popular\\popular-2.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\popular\\popular-3.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\popular\\popular-4.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-4.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\popular\\popular-5.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-5.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\popular\\popular-6.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-6.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\recent\\recent-1.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\recent\\recent-2.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\recent\\recent-3.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\recent\\recent-4.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-4.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\recent\\recent-5.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-5.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\recent\\recent-6.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-6.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\sidebar\\comment-1.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\comment-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\sidebar\\comment-2.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\comment-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\sidebar\\comment-3.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\comment-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\sidebar\\comment-4.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\comment-4.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\sidebar\\tv-1.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\tv-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\sidebar\\tv-2.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\tv-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\sidebar\\tv-3.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\tv-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\sidebar\\tv-4.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\tv-4.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\sidebar\\tv-5.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\tv-5.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\trending\\trend-1.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\trending\\trend-2.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\trending\\trend-3.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\trending\\trend-4.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-4.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\trending\\trend-5.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-5.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\img\\trending\\trend-6.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-6.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\js\\player.js",
+      "PackagePath": "staticwebassets\\js\\player.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\popular-5.jpg",
+      "PackagePath": "staticwebassets\\popular-5.jpg"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\sass\\_anime-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_anime-details.scss"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\sass\\_anime-watching.scss",
+      "PackagePath": "staticwebassets\\sass\\_anime-watching.scss"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\sass\\_base.scss",
+      "PackagePath": "staticwebassets\\sass\\_base.scss"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\sass\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog-details.scss"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\sass\\_blog.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog.scss"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\sass\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\sass\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\_footer.scss"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\sass\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\_header.scss"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\sass\\_hero.scss",
+      "PackagePath": "staticwebassets\\sass\\_hero.scss"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\sass\\_login.scss",
+      "PackagePath": "staticwebassets\\sass\\_login.scss"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\sass\\_product.scss",
+      "PackagePath": "staticwebassets\\sass\\_product.scss"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\sass\\_responsive.scss",
+      "PackagePath": "staticwebassets\\sass\\_responsive.scss"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\sass\\_signup.scss",
+      "PackagePath": "staticwebassets\\sass\\_signup.scss"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\sass\\_variable.scss",
+      "PackagePath": "staticwebassets\\sass\\_variable.scss"
+    },
+    {
+      "Id": "D:\\repos\\DVD-Shop\\DVD-Shop\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DVD-Shop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DVD-Shop.props",
+      "PackagePath": "build\\DVD-Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DVD-Shop.props",
+      "PackagePath": "buildMultiTargeting\\DVD-Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DVD-Shop.props",
+      "PackagePath": "buildTransitive\\DVD-Shop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

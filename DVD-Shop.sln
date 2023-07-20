@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVD-Shop", "DVD-Shop\DVD-Shop.csproj", "{61D0499F-2278-4F04-8252-B58D04B4BD57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61D0499F-2278-4F04-8252-B58D04B4BD57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D0499F-2278-4F04-8252-B58D04B4BD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D0499F-2278-4F04-8252-B58D04B4BD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D0499F-2278-4F04-8252-B58D04B4BD57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78125754-AAAB-41F8-BBD4-E1BC930E1F29}
+	EndGlobalSection
+EndGlobal

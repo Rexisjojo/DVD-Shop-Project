@@ -1,0 +1,59 @@
+﻿@using DVD_Shop.Data;
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+
+
+
+   
+  
+
+   @*<ul class="navbar-nav">*@
+        @if (SignInManager.IsSignedIn(User))
+        {
+            @*<li class="nav-item">
+                <a class="nav-link " asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @User.Identity?.Name!</a>
+            </li>
+            <li class="nav-item">
+                <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                <button type="submit" class="nav-link btn btn-link ">Logout</button>
+                </form>
+            </li>*@
+    <div class="container">
+        <div class="row">
+            <div class="col-md-auto">
+                <a class="nav-link " asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @User.Identity?.Name!</a>
+            </div>
+            <div class="col col-lg-2">
+                <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                    <button type="submit" class="nav-link btn btn-link ">Logout</button>
+                </form>
+            </div>
+        </div>
+    </div>
+        }
+        else
+        {
+            @*<li class="nav-item">
+            <a class="nav-link " asp-area="Identity" asp-page="/Account/Register">Register</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link " asp-area="Identity" asp-page="/Account/Login">Login</a>
+            </li>*@
+    <div class="container">
+        <div class="row">
+            <div class="col-sm">
+                <a class="nav-link " asp-area="Identity" asp-page="/Account/Register">Register</a>
+            </div>
+            <div class="col-sm">
+                <a class="nav-link " asp-area="Identity" asp-page="/Account/Login">Login</a>
+            </div>
+
+        </div>
+    </div>
+        }
+@*    </ul>*@
+  
+
+

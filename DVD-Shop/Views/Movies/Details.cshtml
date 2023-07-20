@@ -1,0 +1,67 @@
+﻿@model DVD_Shop.Models.Movie
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 class="text-white">Movie Details</h1>
+
+<div class="text-white">
+    
+    <hr />
+    <dl class="row text-white">
+        <dt class = "col-sm-2">
+            @*@Html.DisplayNameFor(model => model.mTitle)*@Title
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.mTitle)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ReleaseDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ReleaseDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @*@Html.DisplayNameFor(model => model.mDescription)*@Description
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.mDescription)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CoverImage)
+        </dt>
+        <dd class = "col-sm-10">
+            <img src="@Html.DisplayFor(model => model.CoverImage)" width="100px" height="100px">
+            
+        </dd>
+        <dt class = "col-sm-2">
+            @*@Html.DisplayNameFor(model => model.TrailerPath)*@Trailer
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TrailerPath)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Album)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Album.Title)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Artist)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Artist.aName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Genres)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Genres.gName)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.MovieId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

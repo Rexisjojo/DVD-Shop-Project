@@ -1,0 +1,70 @@
+﻿@model IEnumerable<DVD_Shop.Models.Song>
+
+@*<table class="table text-white">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.sTitle)Song
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.songPath)Song Path
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Artist)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Album)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genres)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.sTitle)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.songPath)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Artist.aName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Album.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Genres.gName)
+                </td>
+                
+            </tr>
+        }
+    </tbody>
+</table>*@
+<h1 class="text-white "> Listen And Download Songs </h1>
+@*18rem*@
+<div class="container justify-content-center">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+        <div class="card" style="width: 21rem;">
+            <div class="card-body">
+                    <h5 class="card-title text-center">@Html.DisplayFor(modelItem => item.sTitle)</h5>
+                    <h6 class="card-subtitle mb-2 text-body-secondary">@Html.DisplayFor(modelItem => item.Artist.aName)</h6>
+                
+                   @*@Html.DisplayFor(modelItem => item.songPath)*@
+                    <audio controls>
+                        <source src="@Html.DisplayFor(modelItem => item.songPath)" type="audio/mpeg">
+                        Your browser does not support the audio tag.
+                    </audio>
+                    <a href="@Html.DisplayFor(modelItem => item.songPath)" download="audio-file.mp3">Download Song</a>
+                
+            </div>
+        </div>
+        }
+    </div>
+</div>  
